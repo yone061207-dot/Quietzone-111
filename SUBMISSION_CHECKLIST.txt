@@ -1,0 +1,11 @@
+QUIETZONE - BEFORE SUBMITTING
+
+[ ] Instructor has approved a solo submission, if required.
+[ ] Open index.html and test all four screens in your own browser.
+[ ] Upload the entire project folder content to your own GitHub repository.
+[ ] Review and understand the code; commit your real work using your own account.
+[ ] Confirm the instructor can access the repository.
+[ ] Paste the actual GitHub repository URL into the BigSky submission.
+[ ] Attach the complete project ZIP.
+
+This checklist does not certify work or submissions that have not happened.

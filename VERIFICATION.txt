@@ -1,0 +1,5 @@
+QuietZone browser verification
+
+PASS: 4 screens at 320/390/680/768/1440px, no horizontal overflow; sticky header; hamburger toggle/Escape/link close; form validation; evidence preview/remove/type rejection; report creation/local persistence/tracking; unknown reference; 3 sample statuses; reply; conditional fields; duplicate support; standalone file loading; no JavaScript page errors.
+
+Automated checks used headless Chromium. Layout screenshots were reviewed. This does not certify GitHub contributions or course eligibility for solo submission.
